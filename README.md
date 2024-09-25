@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Taha-GPT
 - 👀 I’m interested in C# programming
 - 🌱 I’m currently learning currently learning C#
-- 💞️ I’m looking to collaborate on looking to collaborate
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me on GitHub
 
 <!---
